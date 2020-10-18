@@ -4,18 +4,24 @@ layout: home
 permalink: /
 ---
 
-# Human Protocol Developers
+# Human Protocol Developer Info
 
 Lorem Ipsum
 
 ## Sections
-* [README](https://github.com/hCaptcha/telegram-bot)
-* [What We Stand For](https://github.com/basecamp/handbook/blob/master/what-we-stand-for.md)
-* [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
-* [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
-* [Who Does What?](https://github.com/basecamp/handbook/blob/master/orgchart.md)
-* [HMT Escrow](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
-* [Telegram Bot](https://github.com/hCaptcha/telegram-bot)
-* [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)
-* [Our Values](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
-* [FAQ](https://github.com/basecamp/handbook/blob/master/faq.md)
+* [README](--)
+* [What We Stand For](--)
+* [Vocabulary](--)
+* [Who Does What?](--)
+* [GitHub Home](https://github.com/hCaptcha)
+* [How We Work](--)
+* [Our Values](-)
+* [FAQ](--)
+* [Wiki](--)
+
+## Select GitHub Libraries
+* [hmt-escrow-form](https://github.com/hCaptcha/hmt-escrow)
+* [hmt-token](https://github.com/hCaptcha/hmt-escrow)
+* [hmt-basemodels](https://github.com/hCaptcha/hmt-basemodels)
+* [eth-kvstore](https://github.com/hCaptcha/eth-kvstore)
+* [telegram-bot](https://github.com/hCaptcha/telegram-bot)
