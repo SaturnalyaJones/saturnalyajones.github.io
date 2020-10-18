@@ -6,16 +6,22 @@ permalink: /
 
 # Human Protocol Developer Info
 
-Lorem Ipsum
+Our github repository features the source code for the Human Protocol.
+
+It includes a standard ERC20-compatible token along with a full implementation of our upcoming EIP that extends the ERC20 token standard with more efficient bulk payments.
+
+You can also check out our white paper on HUMAN.
 
 ## Sections
 * [README](--)
+* [HMT GitHub Home](https://github.com/hCaptcha)
+* [Whitepaper](https://assets.website-files.com/5b6ad3313d9b8427c06dab0f/5b6d0696e5d6e281a0e900fe_HUMAN%20Protocol%20Technical%20Whitepaper%20(DRAFT%2006%20August%202018).pdf)
+
 * [What We Stand For](--)
 * [Vocabulary](--)
 * [Who Does What?](--)
-* [GitHub Home](https://github.com/hCaptcha)
 * [How We Work](--)
-* [Our Values](-)
+* [Our Values](--)
 * [FAQ](--)
 * [Wiki](--)
 
